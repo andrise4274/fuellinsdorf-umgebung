@@ -1,0 +1,18 @@
+<h2> <a href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Lieschtlerturm/Lieschtlerturm.html>Liestalerturm</h2>
+
+
+<img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/> <strong>25min</strong>
+<br>
+<img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;">
+<br>
+<img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/>
+<br>
+<img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/>
+<br>
+<img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/roof.png" style="max-height:100px;"/>
+<br>
+<img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/tap-water.png" style="max-height:100px;"/>
+<br>
+<img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/>
+<br>
+<img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/swimming.png" style="max-height:100px;"/>
