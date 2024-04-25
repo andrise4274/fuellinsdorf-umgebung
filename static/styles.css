@@ -43,3 +43,13 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   font-weight: 300;
 }
+
+.not-finished-box {
+  margin-bottom: 2.5rem;
+  color: red;
+  border-radius: 0.25rem;
+  padding: 10px;
+  border-color: red;
+  text-align: center;
+  font-weight: 300;
+}
