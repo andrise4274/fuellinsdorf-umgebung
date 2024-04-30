@@ -1,4 +1,4 @@
-<h2> <a href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Lieschtlerturm/Lieschtlerturm.html>Liestalerturm</h2>
+<h2> <a href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Lieschtlerturm/Lieschtlerturm.html>Liestalerturm </a> </h2>
 
 
 <img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/> <strong>25min</strong>
