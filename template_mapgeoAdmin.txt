@@ -1,4 +1,4 @@
-<h2> <a href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Amphitheater/Amphitheater.html> Amphitheater </a> </h2>
+<h2> <a href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Felsenhaim/felsenhaim.html> Felsenhaim </a> </h2>
 
 
 <img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/> <strong>45min</strong>
