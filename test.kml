@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Römische Wasserleitung -->
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Zeichnung</name><Placemark id="marker_1714664741136"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/UWOlQhAZSmGzS3TLfmrnZA#marker_1714664741136" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Römische Wasserleitung)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt; &lt;a target="_blank" href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Roemische%20Wasserleitung/Roemische%20Wasserleitung.html&gt;Römische Wasserleitung &lt;/a&gt; &lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;40 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+
+&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/UWOlQhAZSmGzS3TLfmrnZA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Römische Wasserleitung</name><description>&lt;h2&gt; &lt;a target="_blank" href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Roemische%20Wasserleitung/Roemische%20Wasserleitung.html&gt;Römische Wasserleitung &lt;/a&gt; &lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;40 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+
+
+<!-- Lieschtlerturm -->
+&lt;br&gt;</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.724271579585249,47.521053524274286</coordinates></Point></Placemark><name>Zeichnung</name><Placemark id="marker_1709745704489"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709745704489" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Liestalerturm)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Lieschtlerturm/Lieschtlerturm.html"&gt;Liestalerturm&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;75 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/roof.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/tap-water.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Liestalerturm</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Lieschtlerturm/Lieschtlerturm.html"&gt;Liestalerturm&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;75 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/roof.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/tap-water.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+
+<!-- Ruine Altenberg -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.753625835649575,47.48803613509682,0</coordinates></Point></Placemark><Placemark id="marker_1709746246965"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709746246965" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Ruine Altenberg)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Ruine Altenberg/Ruine Altenberg.html"&gt;Ruine Altenberg&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;50 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Ruine Altenberg</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Ruine Altenberg/Ruine Altenberg.html"&gt;Ruine Altenberg&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;45 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+
+<!-- Grillhütte -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.7398248340949625,47.509537923083535,0</coordinates></Point></Placemark><Placemark id="marker_1709746417515"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709746417515" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Grillhütte)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Grillh%C3%83%C2%BCtte/Grillh%C3%83%C2%BCtte.html"&gt;Grillhütte&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;50 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/roof.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Grillhütte</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Grillh%C3%83%C2%BCtte/Grillh%C3%83%C2%BCtte.html"&gt;Grillhütte&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;45 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/roof.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+
+<!-- Bantagsplatz -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.733952027498983,47.51276379227428,0</coordinates></Point></Placemark><Placemark id="marker_1709746623708"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709746623708" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Bantagsplatz)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Bantagsplatz/Bantagsplatz.html"&gt;Bantagsplatz&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;25 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Bantagsplatz</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Bantagsplatz/Bantagsplatz.html"&gt;Bantagsplatz&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;25 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+
+
+<!-- Samichlausplatz -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.73156344837007,47.51469917211793,0</coordinates></Point></Placemark><Placemark id="marker_1709746855232"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709746855232" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Samichlausplatz)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Samichlausplatz/Samichlausplatz.html"&gt;Samichlausplatz&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;30 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+
+&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Samichlausplatz</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Samichlausplatz/Samichlausplatz.html"&gt;Samichlausplatz&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;30 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+
+
+<!-- Chlöpfgatter -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.740677562857593,47.49896527623138,0</coordinates></Point></Placemark><Placemark id="marker_1709746858765"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709746858765" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Chlöpfgatter)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Chl%C3%83%C2%B6pfgatter/Chl%C3%83%C2%B6pfgatter.html"&gt;Chlöpfgatter&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;20min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Chlöpfgatter</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Chl%C3%83%C2%B6pfgatter/Chl%C3%83%C2%B6pfgatter.html"&gt;Chlöpfgatter&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;20min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/campfire_6199010.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+
+<!-- Fischerhüttli -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.738010514424906,47.49827665338081,0</coordinates></Point></Placemark><Placemark id="marker_1709746878178"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709746878178" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Fischerhüttli)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Fischerh%C3%83%C2%BCttli/Fischerh%C3%83%C2%BCttli.html"&gt;Fischerhüttli&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;25min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Fischerhüttli</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Fischerh%C3%83%C2%BCttli/Fischerh%C3%83%C2%BCttli.html"&gt;Fischerhüttli&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;25min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+
+
+<!-- Riviera -->
+&lt;br&gt;</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.719710035704377,47.520263092481365,0</coordinates></Point></Placemark><Placemark id="marker_1709746885960"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/oo65CFExRQCdJX1s-dhGTQ#marker_1709746885960" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Riviera)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Riviera/Riviera.html"&gt;Riviera&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;30min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/swimming.png" style="max-height:100px;"/&gt;
+
+&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/oo65CFExRQCdJX1s-dhGTQ</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Riviera</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Riviera/Riviera.html"&gt;Riviera&lt;/a&gt;&lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;30min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/swimming.png" style="max-height:100px;"/&gt;
+
+
+<!-- Hühli -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.720280091704256,47.522613612838114,0</coordinates></Point></Placemark><name>Zeichnung</name><Placemark id="marker_1714546181923"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/KG6rZgefTmOLSWMJifONyQ#marker_1714546181923" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Hühli)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt; &lt;a href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/HÃ¼hli/HÃ¼hli.html.html&gt;Hühli &lt;/a&gt; &lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;30 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+
+&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/KG6rZgefTmOLSWMJifONyQ</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Hühli</name><description>&lt;h2&gt; &lt;a target="_blank" href = https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/HÃ¼hli/HÃ¼hli.html&gt;Hühli &lt;/a&gt; &lt;/h2&gt;
+
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;30 min&lt;/strong&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/environment.png" style="max-height:100px;"&gt;
+&lt;br&gt;
+&lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/bonfire_2436266.png" style="max-height:100px;"/&gt;
+&lt;br&gt;
+
+
+<!-- Felsenhaim -->
+
+<!-- last line -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.737679037968981,47.50424574783937,0</coordinates></Point></Placemark></Document>
+
+</kml>
