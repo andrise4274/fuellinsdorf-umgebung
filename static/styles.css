@@ -23,11 +23,22 @@ h1, h2, h3, h4, h5, h6 {
   color: #2c3e50; /* Dark blue from the webpage */
 }
 
+.list-group {
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+}
+
 .card-text, p {
   color: #333; /* Black for body text */
   margin-bottom: 2rem;
-  margin-top: 2rem;
+  margin-top: 1rem;
+  text-align: justify;
+  border: 0.2px solid lightgrey;
+  border-radius: 5px;
+  padding: 10px;
 }
+
+
 
 .card {
   background-color: #fff;
