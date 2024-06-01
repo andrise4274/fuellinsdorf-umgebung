@@ -38,6 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .card-header {
+  margin-top: 2.5rem;
   margin-bottom: 2.5rem;
   background-color: #ffcc00;
   border-radius: 0.25rem;
@@ -54,4 +55,34 @@ h1, h2, h3, h4, h5, h6 {
   border-color: red;
   text-align: center;
   font-weight: 300;
+}
+
+
+
+.thumbnail img {
+  border-radius: 0.5rem;
+  transition: transform 0.3s ease;
+}
+
+.thumbnail img:hover {
+  transform: scale(1.05);
+}
+
+.embed-responsive-16by9 iframe {
+  width: 90%;
+  height: 600px;
+}
+
+@media (max-width: 768px) {
+  .embed-responsive-16by9 iframe {
+      height: 400px;
+  }
+
+  .card-header {
+      font-size: 1.5rem;
+  }
+
+  .card-text, p {
+      font-size: 1rem;
+  }
 }
