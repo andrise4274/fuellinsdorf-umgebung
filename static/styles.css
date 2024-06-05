@@ -33,6 +33,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 2rem;
   margin-top: 1rem;
   text-align: justify;
+}
+
+.card-text-boundary {
+  color: #333; /* Black for body text */
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+  text-align: justify;
   border: 0.2px solid lightgrey;
   border-radius: 5px;
   padding: 10px;
@@ -112,3 +119,6 @@ th.sortable {
 th.sortable:hover {
     background-color: #f1f1f1;
 }
+
+
+/* make table on main page thinner*/
