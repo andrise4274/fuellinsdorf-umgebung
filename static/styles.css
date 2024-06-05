@@ -68,7 +68,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
 
-
+/* make the site more responsive - pictures get an animation
+plus make cards arround the text for the starting site*/
 
 .thumbnail img {
   border-radius: 0.5rem;
@@ -96,4 +97,18 @@ h1, h2, h3, h4, h5, h6 {
   .card-text, p {
       font-size: 1rem;
   }
+}
+
+/* style for search bar in table.html*/
+.search-input {
+  margin-bottom: 15px;
+}
+
+/* change the cursor when hovering over a table head*/
+
+th.sortable {
+    cursor: pointer;
+}
+th.sortable:hover {
+    background-color: #f1f1f1;
 }
