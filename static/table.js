@@ -1,5 +1,6 @@
-window.addEventListener('DOMContentLoaded', function () {
+// code for interacting with the html tables
 
+window.addEventListener('DOMContentLoaded', function () {
 
     // code to search the table
     document.getElementById('searchInput').addEventListener('input', function () {
