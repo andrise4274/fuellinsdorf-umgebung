@@ -102,8 +102,8 @@
 &lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
 
 
-<!-- Bantagsplatz -->
-</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.733952027498983,47.51276379227428,0</coordinates></Point></Placemark><Placemark id="marker_1709746623708"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709746623708" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Bantagsplatz)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Bantagsplatz/Bantagsplatz.html"&gt;Bantagsplatz&lt;/a&gt;&lt;/h2&gt;
+<!-- Banntagsplatz -->
+</description><Style><IconStyle><Icon><href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href><gx:w xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:w><gx:h xmlns:gx="http://www.google.com/kml/ext/2.2">48</gx:h></Icon><hotSpot x="24" y="4.799999999999997" xunits="pixels" yunits="pixels"/></IconStyle><LabelStyle><color>ff0000ff</color></LabelStyle></Style><Point><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.733952027498983,47.51276379227428,0</coordinates></Point></Placemark><Placemark id="marker_1709746623708"><ExtendedData><Data name="htmlpopup"><value>&lt;div id="KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA#marker_1709746623708" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Zeichnung &amp;nbsp;&lt;/span&gt;(Banntagsplatz)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Banntagsplatz/Banntagsplatz.html"&gt;Banntagsplatz&lt;/a&gt;&lt;/h2&gt;
 
 &lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;25 min&lt;/strong&gt;
 &lt;br&gt;
@@ -113,7 +113,7 @@
 &lt;br&gt;
 &lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung/static/icons/recycle-bin.png" style="max-height:100px;"/&gt;
 
-&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Bantagsplatz</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Bantagsplatz/Bantagsplatz.html"&gt;Bantagsplatz&lt;/a&gt;&lt;/h2&gt;
+&lt;br&gt;&lt;/div&gt;&lt;/div&gt;</value></Data><Data name="layerId"><value>KML||https://public.geo.admin.ch/api/kml/files/LrvoWN-XQ-W4RD8Dczp_EA</value></Data><Data name="type"><value>marker</value></Data></ExtendedData><name>Banntagsplatz</name><description>&lt;h2&gt;&lt;a target="_blank" href="https://andrise4274.github.io/fuellinsdorf-umgebung/Lernorte/Banntagsplatz/Banntagsplatz.html"&gt;Banntagsplatz&lt;/a&gt;&lt;/h2&gt;
 
 &lt;img src="https://andrise4274.github.io/fuellinsdorf-umgebung//static/icons/task_11319878.png" style="max-height:100px;"/&gt; &lt;strong&gt;25 min&lt;/strong&gt;
 &lt;br&gt;
