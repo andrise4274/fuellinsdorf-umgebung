@@ -26,13 +26,20 @@ h1, h2, h3, h4, h5, h6 {
 .list-group {
   margin-bottom: 2rem;
   margin-top: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
+
+
+
 
 .card-text, p {
   color: #333; /* Black for body text */
   margin-bottom: 2rem;
   margin-top: 1rem;
   text-align: justify;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  padding: 15px;
+  border-radius: 3px;
 }
 
 .card-text-boundary {
@@ -41,8 +48,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1rem;
   text-align: justify;
   border: 0.2px solid lightgrey;
-  border-radius: 5px;
-  padding: 10px;
+  border-radius: 3px;
 }
 
 
@@ -61,16 +67,6 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #ffcc00;
   border-radius: 0.25rem;
   padding: 3px;
-  text-align: center;
-  font-weight: 300;
-}
-
-.not-finished-box {
-  margin-bottom: 2.5rem;
-  color: red;
-  border-radius: 0.25rem;
-  padding: 10px;
-  border-color: red;
   text-align: center;
   font-weight: 300;
 }
@@ -122,3 +118,9 @@ th.sortable:hover {
 
 
 /* make table on main page thinner*/
+
+.table-striped {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 3px;
+}
