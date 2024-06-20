@@ -21,6 +21,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #2c3e50; /* Dark blue from the webpage */
+  margin-top: 15px;
 }
 
 .list-group {
@@ -39,6 +40,12 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   padding: 15px;
   border-radius: 3px;
+}
+
+.path {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .card-text-boundary {
