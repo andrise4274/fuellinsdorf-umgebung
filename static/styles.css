@@ -130,3 +130,47 @@ th.sortable:hover {
   padding: 15px;
   border-radius: 3px;
 }
+
+
+/* Footer */
+.footer {
+  background-color: #add8e6;
+  color: #000000;
+  padding: 20px 0;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.footer .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer .contact-info {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.footer .contact-info a {
+  color: #ffcc00;
+  text-decoration: none;
+}
+
+.footer .contact-info a:hover {
+  text-decoration: underline;
+}
+
+.footer .footer-links a {
+  color: #ffcc00;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer .footer-links a:hover {
+  text-decoration: underline;
+}
