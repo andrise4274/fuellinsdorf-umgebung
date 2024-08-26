@@ -77,6 +77,16 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
 
+.info-header{
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  background-color: #d63619;
+  border-radius: 0.25rem;
+  padding: 3px;
+  text-align: center;
+  font-weight: 300;
+}
+
 /* make the site more responsive - pictures get an animation
 plus make cards arround the text for the starting site*/
 
